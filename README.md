@@ -117,8 +117,9 @@ If you find our code or our paper useful for your research, please **[★star]**
 @inproceedings{li2025boosting,
   title={Boosting Neural Video Representation via Online Structural Reparameterization},
   author={Li, Ziyi and Mao, Qingyu and Liu, Shuai and Li, Qilei and Meng, Fanyang and Liang, Yongsheng},
-  booktitle={Proceedings of the IEEE/CVF Pacific Rim Conference on Computer Vision (PRCV)},
+  booktitle={Proceedings of the Chinese Pattern Recognition and Computer Vision (PRCV)},
   year={2025}
+  organization={Springer Nature}
 }
 ```
 
