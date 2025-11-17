@@ -3,9 +3,8 @@
 
 Ziyi Li, [Qingyu Mao](https://scholar.google.com.hk/citations?user=SWUKj1MAAAAJ&hl=zh-CN&oi=ao), Shuai Liu, Qilei Li, Fanyang Meng, [Yongsheng Liang*](https://scholar.google.com.hk/citations?user=aOEk854AAAAJ&hl=zh-CN&oi=ao).
 
-This is the official implementation of the paper "Boosting Neural Video Representation via Online Structural Reparameterization" (PRCV 2025).
+This is the official implementation of the paper "[Boosting Neural Video Representation via Online Structural Reparameterization](https://arxiv.org/abs/2511.11071)" (PRCV 2025).
 
-- [ ] 添加论文arxiv链接
 
 ## Method Overview
 > Our work propose Online-RepNeRV, a neural video representation framework based on online structural reparameterization. Specifically, Online-RepNeRV utilizes ERB that integrates a multi-branch structure during training, and converts it into a single-branch structure after training. This design enhances the model's representational capacity without affecting decoding efficiency.
