@@ -1,7 +1,7 @@
 # Boosting Neural Video Representation via Online Structural Reparameterization (PRCV 2025)
 
 
-Ziyi Li, [Qingyu Mao](https://scholar.google.com.hk/citations?user=SWUKj1MAAAAJ&hl=zh-CN&oi=ao), Shuai Liu, Qilei Li, Fanyang Meng, [Yongsheng Liang*](https://scholar.google.com.hk/citations?user=aOEk854AAAAJ&hl=zh-CN&oi=ao).
+Ziyi Li, [Qingyu Mao](https://scholar.google.com.hk/citations?user=SWUKj1MAAAAJ&hl=zh-CN&oi=ao), Shuai Liu, [Qilei Li](https://scholar.google.com.hk/citations?hl=zh-CN&user=BIUlY6AAAAAJ&view_op=list_works&sortby=pubdate), Fanyang Meng, [Yongsheng Liang*](https://scholar.google.com.hk/citations?user=aOEk854AAAAJ&hl=zh-CN&oi=ao).
 
 This is the official implementation of the paper "[Boosting Neural Video Representation via Online Structural Reparameterization](https://arxiv.org/abs/2511.11071)" (PRCV 2025).
 
